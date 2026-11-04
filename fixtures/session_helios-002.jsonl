@@ -1,0 +1,5 @@
+{"session_id": "helios-002", "ts": "2026-01-17T10:00:00Z", "role": "user", "type": "message", "text": "The hallway router was updated last night, can you check the setup?"}
+{"session_id": "helios-002", "ts": "2026-01-17T10:02:00Z", "role": "assistant", "type": "message", "text": "Fact: router firmware version is 3.0.0 on the hallway router."}
+{"session_id": "helios-002", "ts": "2026-01-17T10:04:00Z", "role": "assistant", "type": "message", "text": "Decision: decided to enable nightly reboot for the hallway router at 3 AM."}
+{"session_id": "helios-002", "ts": "2026-01-17T10:06:00Z", "role": "assistant", "type": "message", "text": "Fact: the thermostat night schedule is set to 19 degrees on weekdays."}
+{"session_id": "helios-002", "ts": "2026-01-17T10:08:00Z", "role": "assistant", "type": "message", "text": "Open item: still need to verify the kitchen sensor after the battery swap."}
