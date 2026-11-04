@@ -1,0 +1,3 @@
+{"session_id": "helios-003", "ts": "2026-01-20T11:00:00Z", "role": "assistant", "type": "message", "text": "Fact: the front door lock battery level is 82 percent after the spring check."}
+{"session_id": "helios-003", "ts": "2026-01-20T11:02:00Z", "role": "tool", "type": "error", "text": "Error: door lock polling failed: the lock did not answer after three retries."}
+{"session_id": "helios-003", "ts": "2026-01-20T11:04:00Z", "role": "assistant", "type": "message", "text": "Decision: chose to keep the garage camera recording locally instead of in the cloud."}
