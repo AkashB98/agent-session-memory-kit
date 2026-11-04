@@ -1,0 +1,7 @@
+{"session_id": "helios-001", "ts": "2026-01-10T09:00:00Z", "role": "user", "type": "message", "text": "Please help me configure the hallway router for my Helios Home hub."}
+{"session_id": "helios-001", "ts": "2026-01-10T09:02:00Z", "role": "assistant", "type": "message", "text": "Fact: router firmware version is 2.4.1 on the hallway router."}
+{"session_id": "helios-001", "ts": "2026-01-10T09:04:00Z", "role": "assistant", "type": "message", "text": "Decision: decided to use the 2.4 GHz band for hallway IoT devices because the walls are thick."}
+{"session_id": "helios-001", "ts": "2026-01-10T09:06:00Z", "role": "assistant", "type": "message", "text": "TODO: follow up on the kitchen sensor battery replacement next week."}
+{"session_id": "helios-001", "ts": "2026-01-10T09:08:00Z", "role": "tool", "type": "error", "text": "Error: thermostat API failed with a timeout when setting the night schedule."}
+{"session_id": "helios-001", "ts": "2026-01-10T09:10:00Z", "role": "assistant", "type": "message", "text": "Fact: the support contact for the hub is helpdesk@helioshome.example and the case api_key=helios-case-4821 for reference."}
+{"session_id": "helios-001", "ts": "2026-01-10T09:12:00Z", "role": "user", "type": "message", "text": "Thanks, that covers it for today."}
